@@ -1,8 +1,18 @@
-# React + Vite
+# SASTRA Timetable Generation - A Comparison Study
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Automates Timetable Genration
 
-Currently, two official plugins are available:
+## Tools & Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* HTML
+* CSS
+* React JS + Vite
+* Tensorflow (Planned)
+* MySQL (Planned)
+
+## Mission
+
+This project is a comparison study of [`SASTRA Timetable Generaion`](https://github.com/Harikrishna-Srinivasan-1/SASTRA/) with and without using ML algorithms.
+
+
+Happy Coding 🚀!
