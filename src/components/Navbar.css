@@ -1,0 +1,23 @@
+nav {
+	position: sticky;
+	margin: 0;
+}
+nav > ul {
+	font-size: 1.25rem;
+	display: flex;
+	list-style-type: none;
+	padding: 0;
+	margin: 1.25rem 0;
+}
+nav > ul > li {
+	margin: 0 1.25rem;
+}
+nav > ul > li#about {
+	margin-left: auto;
+}
+
+nav a {
+	color: black;
+	list-style-type: none;
+	text-decoration: none;
+  }

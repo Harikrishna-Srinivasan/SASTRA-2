@@ -1,0 +1,14 @@
+#contact {
+	font-size: 1rem;
+	font-weight: bold;
+}
+footer {
+	text-align: center;
+	font-size: 1em;
+	position: relative;
+	margin-top: auto;
+	width: 100%;
+}
+footer p {
+	margin: 5px;
+}
